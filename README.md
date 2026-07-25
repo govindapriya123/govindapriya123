@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm  currently working on react-js , react-native ,java,mysql,A/i.<br>🌱 I'm currently learning java spring boot ,react js<br>💬 Ask me about java , javascript,data structures and algorithms<br>📫 How to reach me  kornigovindapriya@gmail.com
+🔭 I'm  currently working on react-js , react-native ,java,mysql,AI.<br>🌱 I'm currently learning java spring boot ,react js<br>💬 Ask me about java , javascript,data structures and algorithms<br>📫 How to reach me  kornigovindapriya@gmail.com
 
 
 ## 🌐 Socials:
